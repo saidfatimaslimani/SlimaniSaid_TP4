@@ -1,8 +1,8 @@
-#     TP n°4
+ #     TP n°4
 
 #   Le problème d’arbitrage
              
-#   By Slimani fatima && Said Fatma 
+#   By Slimani Fatima && Said Fatma 
 
                  
                  
