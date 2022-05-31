@@ -1,19 +1,18 @@
-# SlimaniSaid_TP4
+#     TP n°4
+#   Le problème d’arbitrage
 
-
-         TP n°4
-    Le problème d’arbitrage
-                 
-By Slimani fatima && Said Fatma 
+               
+#By Slimani fatima && Said Fatma 
 
                  
                  
     Ce TP a pour objectif de vous faire écrire un programme java qui va détecter des opportunités d’arbitrages dans un graphe.
-                       ********************************************************
+                       
     
     Après les recherches sur la problématique suivante : comment détecter une opportunité d’arbitrage ? en d’autres termes : comment détecter
     un circuit absorbant dans le graphe ? on a trouver plusieurs algorithmes comme Bellman Ford Djekestra ,....
-                         ********************************************************
+                       
+                       
      Dans notre TP, nous avons utilise l'algorithme de Bellman-Ford qui résout le problème des plus courts chemins avec origine unique 
      dans le cas le plus général où les poids des arcs peuvent avoir des valeurs négatives.
       
