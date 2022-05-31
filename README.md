@@ -1,8 +1,8 @@
 #     TP n°4
-#   Le problème d’arbitrage
 
-               
-#By Slimani fatima && Said Fatma 
+#   Le problème d’arbitrage
+             
+#   By Slimani fatima && Said Fatma 
 
                  
                  
@@ -17,7 +17,7 @@
      dans le cas le plus général où les poids des arcs peuvent avoir des valeurs négatives.
       
       
-     Nous avons passer pars les éttapes suivants :
+     Nous avons passer pars les étapes suivants :
      
     1- initialise les distances de la source à tous les sommets en tant qu'infini et la distance à la source elle-même en tant que 0.
     Créez un tableau dist[] de taille |V| avec toutes les valeurs infinies sauf dist[src] où src est le sommet source.
